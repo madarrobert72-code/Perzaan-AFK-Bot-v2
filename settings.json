@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "BertCsiripelok SMP",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "bertcs4.aternos.me",
     "port": 54998,
-    "version": "1.21.1"
+    "version": "23.6"
   },
   "position": {
     "enabled": true,
