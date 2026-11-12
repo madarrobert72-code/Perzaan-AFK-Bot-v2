@@ -8,7 +8,7 @@
   "server": {
     "ip": "bertcs4.aternos.me",
     "port": 54998,
-    "version": "23.6"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
