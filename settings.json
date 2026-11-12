@@ -1,9 +1,9 @@
 {
-  "name": "BertCsiripelok SMP",
+  "name": "BertCsiripelok",
   "bot-account": {
-    "username": "BertCsiripelok SMP",
+    "username": "BertCsiripelok",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "bertcs4.aternos.me",
